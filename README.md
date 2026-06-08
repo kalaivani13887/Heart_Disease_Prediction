@@ -80,16 +80,20 @@ Heart-Disease-Prediction/
 │   └── js/
 ├── dataset/
 └── README.md
+```
+
 ## 📋 Requirements
 - Python
 - Flask
 - Scikit-learn
 - Pandas
 - NumPy
-- MySQl
+- MySQL
+
 ## 🌟 Real-World Implementation
 
 This system can be used in hospitals and healthcare centers to assist doctors in identifying patients who may be at risk of heart disease and provide early preventive care.
+
 ## 🤝 Contributing
 
 Contributions and improvements are welcome.
