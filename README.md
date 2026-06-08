@@ -27,3 +27,60 @@ Heart disease is one of the leading causes of death worldwide. Traditional diagn
 - Scikit-Learn
 - Decision Tree Classifier
 - Naive Bayes Classifier
+  #📂 System Modules
+👤 User Module
+Enter patient health details
+View prediction results
+Analyze risk factors
+⚙️ Admin Module
+Manage patient records
+Monitor prediction reports
+Update datasets
+🎯 Benefits
+Early detection of heart disease
+Supports healthcare professionals
+Improves patient awareness
+Reduces diagnosis time
+🚀 Future Enhancements
+Mobile application support
+Integration with wearable devices
+AI-powered health recommendations
+Cloud-based patient monitoring
+💻 Installation
+Prerequisites
+Python 3.x
+Flask
+MySQL
+Web Browser
+Steps
+Download or clone the repository.
+Install required Python packages.
+Configure the database.
+Run the Flask application.
+Open the application in a web browser.
+📁 Project Structure
+Plain text
+Heart-Disease-Prediction/
+│
+├── app.py
+├── model.pkl
+├── templates/
+│   └── index.html
+├── static/
+│   ├── css/
+│   └── js/
+├── dataset/
+├── README.md
+📋 Requirements
+Python
+Flask
+Scikit-learn
+Pandas
+NumPy
+MySQL
+🌟 Real-World Implementation
+This system can be used in hospitals and healthcare centers to assist doctors in identifying patients who may be at risk of heart disease and provide early preventive care.
+🤝 Contributing
+Contributions and improvements are welcome.
+⭐ Support
+If you found this project useful, consider giving it a Star ⭐ on GitHub.
