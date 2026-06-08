@@ -1,4 +1,4 @@
-# ❤️ Project Title
+# 🫀 Project Title
 Heart Disease Prediction 
 
 # 📖 Project Overview
